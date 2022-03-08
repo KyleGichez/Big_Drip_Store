@@ -39,4 +39,28 @@ small, span{
 }
 .card{
     cursor:pointer;
+    width:12rem;
+}
+.card-body{
+    height:10rem;
+}
+.card-body ,#buttons{
+    background-color:black;
+}
+.card > img{
+    height:10rem;
+}
+.card-text{
+    font-size:14px;
+}
+#shoes_section, #jackets_section,#pants_details,#jewellery_section{
+    background-color: #3D3D3D;
+}
+#shoes_section_container,#pants_details_container,#jewellery_container{
+    background-color: #292929;
+    color:ghostwhite;
+}
+.carousel-item > img{
+    width:400px;
+    height:500px;
 }
