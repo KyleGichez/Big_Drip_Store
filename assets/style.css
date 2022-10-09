@@ -39,7 +39,6 @@ small, span{
 }
 .card{
     cursor:pointer;
-    width:12rem;
 }
 .card-body{
     height:10rem;
